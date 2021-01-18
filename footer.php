@@ -10,7 +10,7 @@ with us?</h2>
 				<div class="lead real-line--up"><p>Let&#8217;s explore your full online potential! Erzähl uns Deine Story und lass uns gemeinsam etwas Grossartiges erschaffen!</p>
 </div>
 				<div class="">
-					<a class="lead fade--up" href="kontakt/index.html">Let's talk</a>
+					<a class="lead fade--up" href="http://spacegm.com/local/kontakt/index.php">Let's talk</a>
 				</div>
 			</div>
 		</div>
@@ -24,7 +24,7 @@ with us?</h2>
 				<p>Localmedia GmbH<br />
 Seestrasse 8<br />
 CH-8640 Rapperswil SG</p>
-				<p><a href="" target="_blank" rel="noopener noreferrer nofollow">Get Directions</a></p>
+				<p><a href="#" target="_blank" rel="noopener noreferrer nofollow">Get Directions</a></p>
 
 
 				<!-- <h6>We get you. Started.</h6> -->
@@ -37,15 +37,15 @@ CH-8640 Rapperswil SG</p>
 						Die neusten Industry Trends, Insights, Tipps & News.					</span>
 				</p>
 
-								<p><a href="newsletter/index.html">Für Newsletter anmelden</a></p>
+								<p><a href="http://spacegm.com/local/newsletter/index.php">Für Newsletter anmelden</a></p>
 
 
 			</div>
 			<div class="left">
 				<!-- <h6>Let's talk</h6> -->
 				<p>Starte eine Konversation</p>
-				<p><a href="mailto:office@localmedia.ch">office@localmedia.ch</a></p>
-				<p><a href="tel:+41 55 210 90 33">+41 55 210 90 33</a></p>
+				<p><a href="mailto:office@abc.ch">office@abc.ch</a></p>
+				<p><a href="tel:+123456789">+123456789</a></p>
 				<!-- <p><a href="/kontakt">Kontakt</a></p> -->
 			</div>
 
@@ -64,9 +64,9 @@ CH-8640 Rapperswil SG</p>
 			</div>
 			<div class="right">
 				<div class="privacy">
-					<a href="impressum/index.html">Impressum</a>
-					<a href="datenschutz/index.html">Datenschutz</a>
-					<a href="agb/index.html">AGB</a>
+					<a href="http://spacegm.com/local/impressum/index.php">Impressum</a>
+					<a href="http://spacegm.com/local/datenschutz/index.php">Datenschutz</a>
+					<a href="http://spacegm.com/local/agb/index.php">AGB</a>
 				</div>
 				<div class="love">
 					<p>Made with <span><svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

@@ -98,10 +98,10 @@
              <div class="cover-media">
                  
                                                               <video id="coverVideo"  class="cover-media-content cover-media-content-video" autoPlay playsinline muted loop preload="metadata"
-                              data-mobile="../assets/video/2004095298.mp4"
-                              data-small="../assets/video/2002016705.mp4"
-                              data-medium="../assets/video/2002016701.mp4"
-                              data-large="../assets/video/2002016694.mp4">
+                              data-mobile="../assets/video/2000532835.mp4"
+                              data-small="../assets/video/2000384917.mp4"
+                              data-medium="../assets/video/2000384931.mp4"
+                              data-large="../assets/video/2000384919.mp4">
                             Your browser does not support the video tag.
                         </video>
                                     
@@ -124,126 +124,126 @@
 <div class="page-section page-section--work trigger--end">
     <div class="section-content">
             <div class="work-collection grid-container page-section-animate">
-                         <a href="webdesign-wunderraum-pfaeffikon-sz/index.html" class="work-item mix category-62 category-27">
+                         <a href="webdesign-wunderraum-pfaeffikon-sz/index.php" class="work-item mix category-62 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/wunderraum-website-thumb.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website für Coworking & Meeting Space erstellt von localmedia, für Wunderraum AG - Pfäffikon SZ"/>
+                <img src="../assets/img/wunderraum-website-thumb.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website für Coworking & Meeting Space erstellt von localmedia, für Wunderraum AG - Pfäffikon SZ"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Website für Coworking & Meeting Space</h4>
         <div class="work-item__client text--small text--gray">Wunderraum AG - Pfäffikon SZ</div>
     </div>
 </a>
-                             <a href="wordpress-website-quellwasser-zuerich/index.html" class="work-item mix category-27">
+                             <a href="wordpress-website-quellwasser-zuerich/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/lokales-wasser-37-thumb.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Quellwasser aus Zürich mit moderner WordPress Website erstellt von localmedia, für Lokales Wasser AG - Zürich"/>
+                <img src="../assets/img/lokales-wasser-37-thumb.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Quellwasser aus Zürich mit moderner WordPress Website erstellt von localmedia, für Lokales Wasser AG - Zürich"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Quellwasser aus Zürich mit moderner WordPress Website</h4>
         <div class="work-item__client text--small text--gray">Lokales Wasser AG - Zürich</div>
     </div>
 </a>
-                             <a href="architektur-website-st-gallen/index.html" class="work-item mix category-27">
+                             <a href="architektur-website-st-gallen/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/sl-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website Redesign - mit Animationen erstellt von localmedia, für S+L Architektur - Widnau St Gallen"/>
+                <img src="../assets/img/sl-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website Redesign - mit Animationen erstellt von localmedia, für S+L Architektur - Widnau St Gallen"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Website Redesign - mit Animationen</h4>
         <div class="work-item__client text--small text--gray">S+L Architektur - Widnau St Gallen</div>
     </div>
 </a>
-                             <a href="restaurant-website-st-gallen/index.html" class="work-item mix category-28 category-27">
+                             <a href="restaurant-website-st-gallen/index.php" class="work-item mix category-28 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/lavigna-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Leichtes Webdesign zu guter Küche erstellt von localmedia, für LA VIGNA - St. Gallen"/>
+                <img src="../assets/img/lavigna-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Leichtes Webdesign zu guter Küche erstellt von localmedia, für LA VIGNA - St. Gallen"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Leichtes Webdesign zu guter Küche</h4>
         <div class="work-item__client text--small text--gray">LA VIGNA - St. Gallen</div>
     </div>
 </a>
-                             <a href="webdesign-kockum-sonics/index.html" class="work-item mix category-27">
+                             <a href="webdesign-kockum-sonics/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/kockum-sonics-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Wordpress Website für Alarmierungs- und Warnsysteme. erstellt von localmedia, für Kockum Sonics - Dübendorf"/>
+                <img src="../assets/img/kockum-sonics-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Wordpress Website für Alarmierungs- und Warnsysteme. erstellt von localmedia, für Kockum Sonics - Dübendorf"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Wordpress Website für Alarmierungs- und Warnsysteme.</h4>
         <div class="work-item__client text--small text--gray">Kockum Sonics - Dübendorf</div>
     </div>
 </a>
-                             <a href="webdesign-fotoshooting-docucom-rapperswil/index.html" class="work-item mix category-28 category-54 category-27">
+                             <a href="webdesign-fotoshooting-docucom-rapperswil/index.php" class="work-item mix category-28 category-54 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/docucom-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website & Fotos für Docucom erstellt von localmedia, für Docucom AG - Rapperswil"/>
+                <img src="../assets/img/docucom-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website & Fotos für Docucom erstellt von localmedia, für Docucom AG - Rapperswil"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Website & Fotos für Docucom</h4>
         <div class="work-item__client text--small text--gray">Docucom AG - Rapperswil</div>
     </div>
 </a>
-                             <a href="website-coiffeur-rapperswil/index.html" class="work-item mix category-27">
+                             <a href="website-coiffeur-rapperswil/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/haar-und-mehr-rapperswil-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Haare schön, Website schön. erstellt von localmedia, für haar & mehr Rapperswil"/>
+                <img src="../assets/img/haar-und-mehr-rapperswil-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Haare schön, Website schön. erstellt von localmedia, für haar & mehr Rapperswil"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Haare schön, Website schön.</h4>
         <div class="work-item__client text--small text--gray">haar & mehr Rapperswil</div>
     </div>
 </a>
-                             <a href="webdesign-online-marketing-st-gallen/index.html" class="work-item mix category-54 category-27">
+                             <a href="webdesign-online-marketing-st-gallen/index.php" class="work-item mix category-54 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/alptel-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Webdesign & Online Marketing erstellt von localmedia, für Alptel AG - St. Gallen"/>
+                <img src="../assets/img/alptel-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Webdesign & Online Marketing erstellt von localmedia, für Alptel AG - St. Gallen"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Webdesign & Online Marketing</h4>
         <div class="work-item__client text--small text--gray">Alptel AG - St. Gallen</div>
     </div>
 </a>
-                             <a href="comensoli-webdesign/index.html" class="work-item mix category-27">
+                             <a href="comensoli-webdesign/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/comensoli-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Kunstvolles Webdesign erstellt von localmedia, für Mario- und Hélène- Comensoli-Stiftung"/>
+                <img src="../assets/img/comensoli-work.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Kunstvolles Webdesign erstellt von localmedia, für Mario- und Hélène- Comensoli-Stiftung"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Kunstvolles Webdesign</h4>
         <div class="work-item__client text--small text--gray">Mario- und Hélène- Comensoli-Stiftung</div>
     </div>
 </a>
-                             <a href="wordpress-website-st-gallen/index.html" class="work-item mix category-27">
+                             <a href="wordpress-website-st-gallen/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/kath-kirche-st-gallen-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website und Wordpress CMS erstellt von localmedia, für Kath. Konfessionsteil des Kantons St.Gallen"/>
+                <img src="../assets/img/kath-kirche-st-gallen-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Website und Wordpress CMS erstellt von localmedia, für Kath. Konfessionsteil des Kantons St.Gallen"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Website und Wordpress CMS</h4>
         <div class="work-item__client text--small text--gray">Kath. Konfessionsteil des Kantons St.Gallen</div>
     </div>
 </a>
-                             <a href="webdesign-einkaufsziel-rapperswil-jona/index.html" class="work-item mix category-27">
+                             <a href="webdesign-einkaufsziel-rapperswil-jona/index.php" class="work-item mix category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/rapperswil-2480x1098-1.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Flanieren, einkaufen und geniessen in Rapperswil-Jona erstellt von localmedia, für Einkaufsziel Rapperswil-Jona"/>
+                <img src="../assets/img/rapperswil-2480x1098-1.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Flanieren, einkaufen und geniessen in Rapperswil-Jona erstellt von localmedia, für Einkaufsziel Rapperswil-Jona"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Flanieren, einkaufen und geniessen in Rapperswil-Jona</h4>
         <div class="work-item__client text--small text--gray">Einkaufsziel Rapperswil-Jona</div>
     </div>
 </a>
-                             <a href="moderne-website-feuerwehr/index.html" class="work-item mix category-28 category-27">
+                             <a href="moderne-website-feuerwehr/index.php" class="work-item mix category-28 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/feuerwehr-kilchberg-rueschlikon-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Heisses Fotoshooting & modernes Webdesign erstellt von localmedia, für Feuerwehr-Kilchberg-Rueschlikon"/>
+                <img src="../assets/img/feuerwehr-kilchberg-rueschlikon-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Heisses Fotoshooting & modernes Webdesign erstellt von localmedia, für Feuerwehr-Kilchberg-Rueschlikon"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Heisses Fotoshooting & modernes Webdesign</h4>
         <div class="work-item__client text--small text--gray">Feuerwehr-Kilchberg-Rueschlikon</div>
     </div>
 </a>
-                             <a href="online-marketing-pro-senectute/index.html" class="work-item mix category-54 category-27">
+                             <a href="online-marketing-pro-senectute/index.php" class="work-item mix category-54 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/memo-info-ad-kampagne-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Neue Website & Online Marketing gegen das Vergessen erstellt von localmedia, für Pro Senectute & Alzheimer Schweiz"/>
+                <img src="../assets/img/memo-info-ad-kampagne-card.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Neue Website & Online Marketing gegen das Vergessen erstellt von localmedia, für Pro Senectute & Alzheimer Schweiz"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Neue Website & Online Marketing gegen das Vergessen</h4>
         <div class="work-item__client text--small text--gray">Pro Senectute & Alzheimer Schweiz</div>
     </div>
 </a>
-                             <a href="neue-website-auravita-rapperswil/index.html" class="work-item mix category-54 category-27">
+                             <a href="neue-website-auravita-rapperswil/index.php" class="work-item mix category-54 category-27">
     <div class="work-item__image">
-                <img data-src="../assets/img/localmedia-auravita-portrait.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Jetzt auch online ganz schön fit erstellt von localmedia, für AuraVita Fitness-Center - Rapperswil"/>
+                <img src="../assets/img/localmedia-auravita-portrait.webp" class="Sirv image-fill zoom--work" data-options="fit:crop" alt="Jetzt auch online ganz schön fit erstellt von localmedia, für AuraVita Fitness-Center - Rapperswil"/>
     </div>
     <div class="work-item__caption real-line--up">
         <h2 class="work-item__services h5">Jetzt auch online ganz schön fit</h4>
@@ -266,12 +266,12 @@
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

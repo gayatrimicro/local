@@ -133,9 +133,9 @@
                 <div class="work-collection">
                     		        			
 
- <a href="work/webdesign-wunderraum-pfaeffikon-sz/index.html" class="work-item work-item-home">
+ <a href="http://spacegm.com/local/work/webdesign-wunderraum-pfaeffikon-sz/index.php" class="work-item work-item-home">
      <div class="work-item__image">
-                  <img data-src="assets/img/wunderraum-website-cover-scaled.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Website für Coworking & Meeting Space erstellt durch localmedia, für Wunderraum AG - Pfäffikon SZ"/>
+                  <img src="assets/img/wunderraum-website-cover-scaled.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Website für Coworking & Meeting Space erstellt durch localmedia, für Wunderraum AG - Pfäffikon SZ"/>
      </div>
      <div class="work-item__caption">
          <div class="left line--up">
@@ -149,9 +149,9 @@
 </a>
         	        		        			
 
- <a href="work/architektur-website-st-gallen/index.html" class="work-item work-item-home">
+ <a href="http://spacegm.com/local/work/architektur-website-st-gallen/index.php" class="work-item work-item-home">
      <div class="work-item__image">
-                  <img data-src="assets/img/sl-cover-3.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Website Redesign - mit Animationen erstellt durch localmedia, für S+L Architektur - Widnau St Gallen"/>
+                  <img src="assets/img/sl-cover-3.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Website Redesign - mit Animationen erstellt durch localmedia, für S+L Architektur - Widnau St Gallen"/>
      </div>
      <div class="work-item__caption">
          <div class="left line--up">
@@ -165,9 +165,9 @@
 </a>
         	        		        			
 
- <a href="work/wordpress-website-quellwasser-zuerich/index.html" class="work-item work-item-home">
+ <a href="http://spacegm.com/local/work/wordpress-website-quellwasser-zuerich/index.php" class="work-item work-item-home">
      <div class="work-item__image">
-                  <img data-src="assets/img/lokales-wasser-cover.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Quellwasser aus Zürich mit moderner WordPress Website erstellt durch localmedia, für Lokales Wasser AG - Zürich"/>
+                  <img src="assets/img/lokales-wasser-cover.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Quellwasser aus Zürich mit moderner WordPress Website erstellt durch localmedia, für Lokales Wasser AG - Zürich"/>
      </div>
      <div class="work-item__caption">
          <div class="left line--up">
@@ -181,9 +181,9 @@
 </a>
         	        		        			
 
- <a href="work/webdesign-online-marketing-st-gallen/index.html" class="work-item work-item-home">
+ <a href="http://spacegm.com/local/work/webdesign-online-marketing-st-gallen/index.php" class="work-item work-item-home">
      <div class="work-item__image">
-                  <img data-src="assets/img/alptel-cover-1.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Webdesign & Online Marketing erstellt durch localmedia, für Alptel AG - St. Gallen"/>
+                  <img src="assets/img/alptel-cover-1.webp" class="Sirv image-fill work-media" data-options="fit:crop" alt="Webdesign & Online Marketing erstellt durch localmedia, für Alptel AG - St. Gallen"/>
      </div>
      <div class="work-item__caption">
          <div class="left line--up">
@@ -205,7 +205,7 @@
              </div>
             <div class="more-content ">
                 <p class="lead first fade--up">Über 500 erfolgreich umgesetzte Projekte, mehr als 14 Jahre fachliche Expertise und rund 10 Jahre localmedia, die Webagentur in Rapperswil. Doch speziell in unserer Branche tut man gut daran, nicht bloss auf Zahlen zu vertrauen.</p>
-                <a class="lead fade--up" href="work/index.html">
+                <a class="lead fade--up" href="http://spacegm.com/local/work/index.php">
                     <span>
                         Jetzt weitere Arbeiten entdecken                    </span>
                 </a>
@@ -219,7 +219,7 @@
         <h2 class="meta--title fade--up">Services</h2>
         <h3 class="h2 text--gray word--up"><span class="text--black">Websites</span> Design, CMS, Development, & E-Commerce. <span class="text--black">Content</span> Video Production, Foto & Text. <span class="text--black">Online-Marketing</span> SEO, SEM, Social Media & Advertising. <span class="text--black">Service</span> Support, Unterhalt, Updates & Hosting.</h3>
         <p class="lead leadtext fade--up">Und was macht ihr genau?</p>
-        <a class="lead fade--up" href="services/index.html">Hier erfährst Du, was wir für Dich tun können.</a>
+        <a class="lead fade--up" href="services/index.php">Hier erfährst Du, was wir für Dich tun können.</a>
     </div>
     <div class="section-content">
         <div class="aboutus-item aboutus-item-left" parallax-container>
@@ -229,15 +229,15 @@
                                     </h3>
                 <p class="lead fade--up">Einfach ist die höchste Stufe der Vollendung. Wir machen für Dich die coolste & modernste Technologie menschlich. Greifbar mit Emotion und Bedeutung. Dafür erstellen wir unkompliziert und persönlich Deine perfekte Website. Die eine Geschichte erzählt. Deine Geschichte. </p>
 
-                 <a class="lead fade--up" href="agentur/index.html">Mehr über uns und wie wir ticken</a>
+                 <a class="lead fade--up" href="agentur/index.php">Mehr über uns und wie wir ticken</a>
 
             </div>
             <div class="right p__animation">
                 <div class="image--wrapper--lg" data-parallax-factor=".1">
-                                    <img data-reveal-direction="right" data-src="assets/img/localmedia-team-113-scaled-1-scaled.webp" class="Sirv image-fill" data-options="fit:crop" alt="Team-Meeting in der Webagentur Rapperswil"/>
+                                    <img data-reveal-direction="right" src="assets/img/localmedia-team-113-scaled-1-scaled.webp" class="Sirv image-fill" data-options="fit:crop" alt="Team-Meeting in der Webagentur Rapperswil"/>
                 </div>
                 <div class="image--wrapper--sm image--small" data-parallax-factor=".15">
-                                    <img data-reveal-direction="right" data-src="assets/img/Rapperswil-by-Night.webp" class="Sirv image-fill" alt="Nachtaufnahme der Stadt Rapperswil, mit Blick auf das Büro der Webagentur localmedia"/>
+                                    <img data-reveal-direction="right" src="assets/img/Rapperswil-by-Night.webp" class="Sirv image-fill" alt="Nachtaufnahme der Stadt Rapperswil, mit Blick auf das Büro der Webagentur localmedia"/>
                 </div>
             </div>
         </div>
@@ -256,9 +256,9 @@
     <div class="section-content">
             <div class="news-collection">
             		            
-<a href="news/suchmaschinenoptimierung/index.html" class="news-item mix category-32">
+<a href="news/suchmaschinenoptimierung/index.php" class="news-item mix category-32">
     <div class="news-item__image">
-                <img data-reveal-direction="left" data-src="assets/img/milkovi-FTNGfpYCpGM-unsplash.webp" class="Sirv image-fill" data-options="fit:crop" alt="Texte für Suchmaschinenoptimierung an einer Schreibmaschine schreiben"/>
+                <img data-reveal-direction="left" src="assets/img/milkovi-FTNGfpYCpGM-unsplash.webp" class="Sirv image-fill" data-options="fit:crop" alt="Texte für Suchmaschinenoptimierung an einer Schreibmaschine schreiben"/>
     </div>
     <div class="news__caption">
         <p class="news--meta h5">
@@ -267,9 +267,9 @@
     </div>
 </a>
     	    		            
-<a href="news/website-redesign/index.html" class="news-item mix category-32">
+<a href="news/website-redesign/index.php" class="news-item mix category-32">
     <div class="news-item__image">
-                <img data-reveal-direction="left" data-src="assets/img/med-badr-chemmaoui-ZSPBhokqDMc-unsplash-1.webp" class="Sirv image-fill" data-options="fit:crop" alt="Skizzen für ein Website Redesign in einem Notizbuch"/>
+                <img data-reveal-direction="left" src="assets/img/med-badr-chemmaoui-ZSPBhokqDMc-unsplash-1.webp" class="Sirv image-fill" data-options="fit:crop" alt="Skizzen für ein Website Redesign in einem Notizbuch"/>
     </div>
     <div class="news__caption">
         <p class="news--meta h5">
@@ -293,12 +293,12 @@
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

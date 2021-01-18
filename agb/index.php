@@ -178,7 +178,7 @@ Localmedia behält sich das Recht vor, solches Material ohne Ankündigung zu l
 <script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

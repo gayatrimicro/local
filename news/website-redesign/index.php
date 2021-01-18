@@ -85,7 +85,7 @@
             <h1 class="cover-headline word--up--cover h2">
                 Website Redesign? So wird Deine neue Webseite ein voller Erfolg!            </h1>
             <div class="lead-wrapper fade--up--cover">
-                <a class="cover-black link no-underline" href="../../news-insights/index.html">
+                <a class="cover-black link no-underline" href="../../news-insights/index.php">
                     <span class="icon--back"><svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Launch-Version-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Work-Detail" transform="translate(-266.000000, -625.000000)">
@@ -266,7 +266,7 @@
 <b>Gerne helfen wir Dir! </b><br />
 Nutze unseren kostenlosen 20-Minuten Call und wir finden gemeinsam heraus,<br />
 auf welche Ziele Du Dich beim Redesign fokussieren solltest.<br />
-<b>|<a href="../../kontakt/index.html">Jetzt Kontaktaufnehmen</a> | <a href="https://calendly.com/jan-elmer/kostenlose-kennenlern-session" target="_blank" rel="noopener">Oder eine Kennenlern-Session buchen</a> |</b></p>
+<b>|<a href="../../kontakt/index.php">Jetzt Kontaktaufnehmen</a> | <a href="https://calendly.com/jan-elmer/kostenlose-kennenlern-session" target="_blank" rel="noopener">Oder eine Kennenlern-Session buchen</a> |</b></p>
 <p>&nbsp;</p>
         </div>
     </div>
@@ -512,7 +512,7 @@ auf welche Ziele Du Dich beim Redesign fokussieren solltest.<br />
 <li>Gibt es ein CI/CD Manual, das für das Redesign wichtig ist?</li>
 <li>Kennst Du andere Webseiten, bei denen Du das Design (oder bestimmte Elemente) besonders gut findest?</li>
 </ul>
-<p>Genau wie Dein Webdesign muss auch Dein <b>Content</b> passen. Deine Inhalte, ob in Form von Text, Fotos, Grafiken oder Videos sollten Probleme lösen, Fragen beantworten und Mehrwert schaffen – und natürlich zum Kauf verleiten. <a href="../suchmaschinenoptimierung/index.html">SEO-Texte kannst Du entweder selbst schreiben</a> oder schreiben lassen. Da gute Texte eine echte Kunst sind, bietet sich bei entsprechendem Budget eine Auslagerung an einen Profi an. Das spart Dir ausserdem viel Zeit!</p>
+<p>Genau wie Dein Webdesign muss auch Dein <b>Content</b> passen. Deine Inhalte, ob in Form von Text, Fotos, Grafiken oder Videos sollten Probleme lösen, Fragen beantworten und Mehrwert schaffen – und natürlich zum Kauf verleiten. <a href="../suchmaschinenoptimierung/index.php">SEO-Texte kannst Du entweder selbst schreiben</a> oder schreiben lassen. Da gute Texte eine echte Kunst sind, bietet sich bei entsprechendem Budget eine Auslagerung an einen Profi an. Das spart Dir ausserdem viel Zeit!</p>
         </div>
     </div>
 </div>
@@ -544,7 +544,7 @@ auf welche Ziele Du Dich beim Redesign fokussieren solltest.<br />
 <li>eine einfache Navigation haben und</li>
 <li>für mobile Nutzer optimiert sein.</li>
 </ul>
-<p>Für eine hochwertige Programmierung braucht es Spezialisten – und wir haben auch schon eine Idee, wo Du diese findest. 😉 Schreibe uns gerne eine Nachricht und <a href="../../kontakt/index.html">besprich Dein Projekt mit uns</a> völlig unverbindlich.</p>
+<p>Für eine hochwertige Programmierung braucht es Spezialisten – und wir haben auch schon eine Idee, wo Du diese findest. 😉 Schreibe uns gerne eine Nachricht und <a href="../../kontakt/index.php">besprich Dein Projekt mit uns</a> völlig unverbindlich.</p>
 <p><b>Übrigens:</b> Benutzerfreundlichkeit ist nicht nur für Besucher wichtig, sondern auch für die zukünftige Instandhaltung Deiner Webseite. Je benutzerfreundlicher, desto einfacher gelingt Dir die Aktualisierung!</p>
         </div>
     </div>
@@ -698,7 +698,7 @@ auf welche Ziele Du Dich beim Redesign fokussieren solltest.<br />
 <li>Viele Unternehmen formulieren <b>keine Strategie</b> für die Umgestaltung Ihrer Webseite. Dann beruht das Redesign auf subjektiven Meinungen und Bauchgefühl – und nicht auf Kennzahlen/KPIs oder den tatsächlichen Wünschen der Zielgruppe. Ausserdem gibt es in einem solchen Fall keine objektiven Massstäbe, um das Redesign-Projekt zu beurteilen.</li>
 <li>Es gibt <b>keine Tests</b> vor oder nach dem Website-Redesign. So kann niemand wissen, wie sich die neue Webseite tatsächlich auf den Kunden auswirkt oder wie das Redesign die Geschäftszahlen verändert.</li>
 </ul>
-<p>Bleibt nur noch eine Frage zu klären: Wo findest Du eine kompetente Agentur für Dein Redesign-Projekt? Hier! Seit <span class="s4">2010 </span><span class="s1">erstellen wir Websites, die kleinen und mittleren Unternehmen zu mehr Erfolg verhelfen. <a href="../../kontakt/index.html"><b>Gerne</b> <b>beraten wir Dich jetzt kostenlos</b></a> und Du erfährst, ob wir die richtige Wahl für Dein Vorhaben sind.</span></p>
+<p>Bleibt nur noch eine Frage zu klären: Wo findest Du eine kompetente Agentur für Dein Redesign-Projekt? Hier! Seit <span class="s4">2010 </span><span class="s1">erstellen wir Websites, die kleinen und mittleren Unternehmen zu mehr Erfolg verhelfen. <a href="../../kontakt/index.php"><b>Gerne</b> <b>beraten wir Dich jetzt kostenlos</b></a> und Du erfährst, ob wir die richtige Wahl für Dein Vorhaben sind.</span></p>
         </div>
     </div>
 </div>

@@ -82,7 +82,7 @@
             <h1 class="cover-headline word--up--cover h2">
                 Suchmaschinenoptimierung? 7 Tipps, damit Du unschlagbare Texte schreibst!            </h1>
             <div class="lead-wrapper fade--up--cover">
-                <a class="cover-black link no-underline" href="../../news-insights/index.html">
+                <a class="cover-black link no-underline" href="../../news-insights/index.php">
                     <span class="icon--back"><svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Launch-Version-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Work-Detail" transform="translate(-266.000000, -625.000000)">
@@ -315,7 +315,7 @@
             <h2 class="word--up   h3">Texte, Suchmaschinenoptimierung &  das Schlusswort</h2>
         </div>
         <div class="right lead fade--up-p  ">
-            <p>Erfolgreiche Webseiten benötigen überzeugenden Content. Unsere 5 Tipps kannst Du sofort umsetzen, um bessere Texte für Deine Leser und Deine Suchmaschinenoptimierung zu schreiben – aber natürlich gibt es noch mehr zu berücksichtigen. Du willst echte Killer-Texte, die Deine Mitbewerber ausstechen? Dann bieten sich professionelle Texter an, die Dir gleichzeitig wertvolle Zeit sparen. <a href="../../kontakt/index.html">Kontaktiere uns noch heute</a> – und erfahre, wie wir Dein Unternehmen mit knackigen Texten und Suchmaschinenoptimierung auf die nächste Stufe heben können!</p>
+            <p>Erfolgreiche Webseiten benötigen überzeugenden Content. Unsere 5 Tipps kannst Du sofort umsetzen, um bessere Texte für Deine Leser und Deine Suchmaschinenoptimierung zu schreiben – aber natürlich gibt es noch mehr zu berücksichtigen. Du willst echte Killer-Texte, die Deine Mitbewerber ausstechen? Dann bieten sich professionelle Texter an, die Dir gleichzeitig wertvolle Zeit sparen. <a href="../../kontakt/index.php">Kontaktiere uns noch heute</a> – und erfahre, wie wir Dein Unternehmen mit knackigen Texten und Suchmaschinenoptimierung auf die nächste Stufe heben können!</p>
         </div>
     </div>
 </div>

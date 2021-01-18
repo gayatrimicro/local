@@ -12,7 +12,7 @@
               </div>
             </div>
 
-            <a class="main-nav__brand" href="index.html" aria-label="Logo localmedia GmbH">
+            <a class="main-nav__brand" href="http://spacegm.com/local/index.php" aria-label="Logo localmedia GmbH">
               <svg viewBox="0 0 158 30">
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="header/standard" transform="translate(-40.000000, -32.000000)">
@@ -43,17 +43,17 @@
 
 
             <div class="main-nav__ctas">
-              <ul id="menu-cta" class="main-nav__list"><li id="menu-item-1211" class="button-get-started menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"><a href="kontakt/index.html">Let&#8217;s Talk</a></li>
+              <ul id="menu-cta" class="main-nav__list"><li id="menu-item-1211" class="button-get-started menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"><a href="http://spacegm.com/local/kontakt/index.php">Let&#8217;s Talk</a></li>
 </ul>            </div>
 
 
             <div class="main-nav__hidden">
               <div class="mobile-menu-wrapper">
                 <div class="nav-top">
-                  <ul id="menu-main" class="main-nav__list"><li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="work/index.html">Work</a></li>
-<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="agentur/index.html">Agentur</a></li>
-<li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="services/index.html">Services</a></li>
-<li id="menu-item-1213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1213"><a href="kontakt/index.html">Kontakt</a></li>
+                  <ul id="menu-main" class="main-nav__list"><li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="http://spacegm.com/local/work/index.php">Work</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="http://spacegm.com/local/agentur/index.php">Agentur</a></li>
+<li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="http://spacegm.com/local/services/index.php">Services</a></li>
+<li id="menu-item-1213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1213"><a href="http://spacegm.com/local/kontakt/index.php">Kontakt</a></li>
 </ul>
 
                   <div class="nav-address">
@@ -62,8 +62,8 @@
 Seestrasse 8<br />
 CH-8640 Rapperswil SG</p>
                     <p>
-                      <a class="link-light" href="mailto:office@localmedia.ch">office@localmedia.ch</a><br>
-                      <a class=" link-light" href="tel:+41 55 210 90 33">+41 55 210 90 33</a>
+                      <a class="link-light" href="mailto:office@abc.ch">office@abc.ch</a><br>
+                      <a class=" link-light" href="tel:+123456789">+123456789</a>
                     </p>
                   </div>
                 </div>
@@ -115,9 +115,9 @@ CH-8640 Rapperswil SG</p>
                   </div>
 
                   <div class="nav-privacy">
-                    <a href="impressum/index.html">Impressum</a>
-                    <a href="datenschutz/index.html">Datenschutz</a>
-                    <a href="agb/index.html">AGB</a>
+                    <a href="http://spacegm.com/local/impressum/index.php">Impressum</a>
+                    <a href="http://spacegm.com/local/datenschutz/index.php">Datenschutz</a>
+                    <a href="http://spacegm.com/local/agb/index.php">AGB</a>
                   </div>
                 </div>
               </div>

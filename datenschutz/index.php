@@ -10,7 +10,7 @@
 		<script>
 		outdatedBrowserRework({
 				browserSupport: {
-						Chrome: 57, // 71 // Includes Chrome for mobile devices
+						Chrome: 57,
 						Edge: 16,
 						Safari: { major: 10, minor: 1 },
 						"Mobile Safari": { major: 10, minor: 3 },
@@ -226,12 +226,12 @@ Sie können den Empfang unseres Newsletters jederzeit kündigen, d.h. Ihre Einwi
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

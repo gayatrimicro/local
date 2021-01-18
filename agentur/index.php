@@ -97,10 +97,10 @@
              <div class="cover-media">
                  
                         <video id="coverVideo"  class="cover-media-content cover-media-content-video" autoPlay playsinline muted loop preload="metadata"
-                              data-mobile="../assets/video/2004095132.mp4"
-                              data-small="../assets/video/1999737811.mp4"
-                              data-medium="../assets/video/1999737800.mp4"
-                              data-large="../assets/video/1999737836.mp4">
+                              data-mobile="../assets/video/2000532835.mp4"
+                              data-small="../assets/video/2000384917.mp4"
+                              data-medium="../assets/video/2000384931.mp4"
+                              data-large="../assets/video/2000384919.mp4">
                         </video>
                                     
 
@@ -156,10 +156,10 @@
                           </div>
             <div class="right p__animation" parallax-container>
               <div class="image--wrapper--lg" data-parallax-factor=".1">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-rapperswil-officeview.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-rapperswil-officeview.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
               </div>
               <div class="image--wrapper--sm scroll--from image--small" data-parallax-factor=".15">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-star-wars-rect.webp" class="Sirv image-fit" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-star-wars-rect.webp" class="Sirv image-fit" alt=""/>
                 <!-- data-options="fit:cover" -->
               </div>
 
@@ -198,10 +198,10 @@
                           </div>
             <div class="right p__animation" parallax-container>
               <div class="image--wrapper--lg" data-parallax-factor=".1">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-clemens-team-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-clemens-team-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
               </div>
               <div class="image--wrapper--sm scroll--from image--small" data-parallax-factor=".15">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-hustle-rect.webp" class="Sirv image-fit" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-hustle-rect.webp" class="Sirv image-fit" alt=""/>
                 <!-- data-options="fit:cover" -->
               </div>
 
@@ -242,10 +242,10 @@
                           </div>
             <div class="right p__animation" parallax-container>
               <div class="image--wrapper--lg" data-parallax-factor=".1">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-handy-pen-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-handy-pen-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
               </div>
               <div class="image--wrapper--sm scroll--from image--small" data-parallax-factor=".15">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-think-outside-the-box-rect.webp" class="Sirv image-fit" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-think-outside-the-box-rect.webp" class="Sirv image-fit" alt=""/>
                 <!-- data-options="fit:cover" -->
               </div>
 
@@ -280,14 +280,14 @@
 <p>No useful improvement was ever invented at a desk. Jetzt muss es ja nicht gleich Bungee-Jumping sein, gerne können wir uns aber auch entspannt in einem Coffeehouse austauschen, uns zum Lunch treffen oder gegen Abend zusammen eins trinken gehen.</p>
 <p>Natürlich können wir es auch erstmal etwas langsamer angehen lassen, via E-Mail &amp; Telefon. What are you waiting for? It&#8217;s gonna be great!</p>
 </div>
-                              <a class="lead fade--up" href="../kontakt/index.html">Let's talk</a>
+                              <a class="lead fade--up" href="../kontakt/index.php">Let's talk</a>
                             </div>
             <div class="right p__animation" parallax-container>
               <div class="image--wrapper--lg" data-parallax-factor=".1">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-team-jan-am-tisch.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-team-jan-am-tisch.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
               </div>
               <div class="image--wrapper--sm scroll--from image--small" data-parallax-factor=".15">
-                                <img data-reveal-direction="right" data-src="../assets/img/localmedia-angie-rect.webp" class="Sirv image-fit" alt=""/>
+                                <img data-reveal-direction="right" src="../assets/img/localmedia-angie-rect.webp" class="Sirv image-fit" alt=""/>
                 <!-- data-options="fit:cover" -->
               </div>
 
@@ -314,7 +314,7 @@
               <div class="team-collection">
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/portrait-image-fabian-herzog.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/portrait-image-fabian-herzog.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -324,7 +324,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/portrait-image-jan-elmer.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/portrait-image-jan-elmer.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -334,7 +334,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/portrait-image-clemens.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/portrait-image-clemens.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -344,7 +344,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/placeholder-website.jpg" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/placeholder-website.jpg" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -354,7 +354,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/portrait-image-angelina.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/portrait-image-angelina.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -364,7 +364,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/portrait-image-alex.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/portrait-image-alex.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -374,7 +374,7 @@
     </div>
                             <div class="team-item">
     <div class="team-item__image">
-                <img data-reveal-direction="left" data-src="../assets/img/fabian-lichtensteiger-portrait-localmedia.webp" class="Sirv image-fill"/>
+                <img data-reveal-direction="left" src="../assets/img/fabian-lichtensteiger-portrait-localmedia.webp" class="Sirv image-fill"/>
     </div>
 
             <div class="team-item__caption">
@@ -407,7 +407,7 @@
     </div>
     <div class="right">
       <p class="lead real-line--up">Über 110 Monate Local Media. Mehr als 330 zufriedene Kunden & jenseits der 550 Projekte erfolgreich umgesetzt. Convince yourself!</p>
-      <a class="lead fade--up" href="../work/index.html">Referenz Projekte</a>
+      <a class="lead fade--up" href="../work/index.php">Referenz Projekte</a>
     </div>
   </div>
   <div class="section-content">
@@ -531,12 +531,12 @@
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

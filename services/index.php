@@ -127,10 +127,10 @@
             <h2 class="word--up">Let’s do something awesome together!</h2>
             <div class="images--wrapper p__animation" parallax-container>
               <div data-parallax-factor=".1" class="image--wrapper--lg">
-                                <img data-reveal-direction="left" data-src="../assets/img/localmedia-chair-laptop-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt="Arbeitsplatz mit Computer in Webagentur Rapperswil"/>
+                                <img data-reveal-direction="left" src="../assets/img/localmedia-chair-laptop-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt="Arbeitsplatz mit Computer in Webagentur Rapperswil"/>
               </div>
               <div data-parallax-factor=".15" class="image--wrapper--sm scroll--from image--small">
-                                <img data-reveal-direction="left" data-src="../assets/img/localmedia-begin-rect-1.webp" class="Sirv image-fill" alt="Kaffeetasse mit Aufschrift: Jetzt starten!"/>
+                                <img data-reveal-direction="left" src="../assets/img/localmedia-begin-rect-1.webp" class="Sirv image-fill" alt="Kaffeetasse mit Aufschrift: Jetzt starten!"/>
               </div>
             </div>
           </div>
@@ -171,10 +171,10 @@
             <div class="right">
               <div class="images--wrapper p__animation" parallax-container>
                 <div data-parallax-factor=".1" class="image--wrapper--lg">
-                                    <img data-reveal-direction="right" data-src="../assets/img/whiteboard-webdesign-strategie.webp" class="Sirv image-fill" data-options="fit:crop" alt="Jan plant am Whiteboard das Webdesign eines Projekts"/>
+                                    <img data-reveal-direction="right" src="../assets/img/whiteboard-webdesign-strategie.webp" class="Sirv image-fill" data-options="fit:crop" alt="Jan plant am Whiteboard das Webdesign eines Projekts"/>
                 </div>
                 <div data-parallax-factor=".15" class="image--wrapper--sm scroll--from image--small">
-                                    <img data-reveal-direction="right" data-src="../assets/img/webdesign-rapperswil.webp" class="Sirv image-fill" alt="Angelina beim programmieren eines Webdesigns"/>
+                                    <img data-reveal-direction="right" src="../assets/img/webdesign-rapperswil.webp" class="Sirv image-fill" alt="Angelina beim programmieren eines Webdesigns"/>
                 </div>
               </div>
               <div class="services__tags real-line--up">
@@ -197,10 +197,10 @@
             <div class="right">
               <div class="images--wrapper p__animation" parallax-container>
                 <div data-parallax-factor=".1" class="image--wrapper--lg">
-                                    <img data-reveal-direction="right" data-src="../assets/img/localmedia-drone-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
+                                    <img data-reveal-direction="right" src="../assets/img/localmedia-drone-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt=""/>
                 </div>
                 <div data-parallax-factor=".15" class="image--wrapper--sm scroll--from image--small">
-                                    <img data-reveal-direction="right" data-src="../assets/img/localmedia-fuel-story-rect.webp" class="Sirv image-fill" alt=""/>
+                                    <img data-reveal-direction="right" src="../assets/img/localmedia-fuel-story-rect.webp" class="Sirv image-fill" alt=""/>
                 </div>
               </div>
               <div class="services__tags real-line--up">
@@ -226,10 +226,10 @@
             <div class="right">
               <div class="images--wrapper p__animation" parallax-container>
                 <div data-parallax-factor=".1" class="image--wrapper--lg">
-                                    <img data-reveal-direction="right" data-src="../assets/img/google-partner-rapperswil.webp" class="Sirv image-fill" data-options="fit:crop" alt="Kaffeetasse mit der Aufschrift Google Partners"/>
+                                    <img data-reveal-direction="right" src="../assets/img/google-partner-rapperswil.webp" class="Sirv image-fill" data-options="fit:crop" alt="Kaffeetasse mit der Aufschrift Google Partners"/>
                 </div>
                 <div data-parallax-factor=".15" class="image--wrapper--sm scroll--from image--small">
-                                    <img data-reveal-direction="right" data-src="../assets/img/online-marketing.webp" class="Sirv image-fill" alt="Fabian und Jan beim Planen einer Online Marketing Kampagne"/>
+                                    <img data-reveal-direction="right" src="../assets/img/online-marketing.webp" class="Sirv image-fill" alt="Fabian und Jan beim Planen einer Online Marketing Kampagne"/>
                 </div>
               </div>
               <div class="services__tags real-line--up">
@@ -253,10 +253,10 @@
             <div class="right">
               <div class="images--wrapper p__animation" parallax-container>
                 <div data-parallax-factor=".1" class="image--wrapper--lg">
-                                    <img data-reveal-direction="right" data-src="../assets/img/localmedia-hand-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt="Hand ragt aus einem Kornfeld und illustriert den benötigten Kundensupport"/>
+                                    <img data-reveal-direction="right" src="../assets/img/localmedia-hand-portrait.webp" class="Sirv image-fill" data-options="fit:crop" alt="Hand ragt aus einem Kornfeld und illustriert den benötigten Kundensupport"/>
                 </div>
                 <div data-parallax-factor=".15" class="image--wrapper--sm scroll--from image--small">
-                                    <img data-reveal-direction="right" data-src="../assets/img/bester-wordpress-service-und-support-rapperswil.webp" class="Sirv image-fill" alt="Support für Website-Kunden per Telefon"/>
+                                    <img data-reveal-direction="right" src="../assets/img/bester-wordpress-service-und-support-rapperswil.webp" class="Sirv image-fill" alt="Support für Website-Kunden per Telefon"/>
                 </div>
               </div>
               <div class="services__tags real-line--up">
@@ -280,12 +280,12 @@
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};

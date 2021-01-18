@@ -56,7 +56,7 @@
     </script>
 	<title>Kontakt &amp; Lage - localmedia GmbH Rapperswil</title>
 	<meta name="description" content="" />
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="index.php" />
 	<meta property="og:locale" content="de_DE" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="" />
@@ -96,10 +96,10 @@
              <div class="cover-media">
                  
                                                               <video id="coverVideo"  class="../assets/video/cover-media-content cover-media-content-video" autoPlay playsinline muted loop preload="metadata"
-                              data-mobile="../assets/video/2046924243.mp4"
-                              data-small="../assets/video/2000456892.mp4"
-                              data-medium="../assets/video/2000456928.mp4"
-                              data-large="../assets/video/2000456902.mp4">
+                              data-mobile="../assets/video/2000532835.mp4"
+                              data-small="../assets/video/2000384917.mp4"
+                              data-medium="../assets/video/2000384931.mp4"
+                              data-large="../assets/video/2000384919.mp4">
                             Your browser does not support the video tag.
                         </video>
                                     
@@ -125,7 +125,7 @@
             <h2 class="title--margin word--up">Ready to  work with us?</h2>
             <p class="lead real-line--up">Das ist die Stelle, wo wir unseren ganzen Mut zusammennehmen und nach Deiner Nummer fragen. Oder bist Du bereit, die Initiative zu ergreifen? Wie Du magst: Wir freuen uns, von Deinen Träumen und Zielen zu erfahren und gemeinsam passende Strategien auszuhecken.</p>
                             <div class="contact-links fade--up">
-                                                                                            <a class="contact-btn lead btn-black" href="projekt/index.html">
+                                                                                            <a class="contact-btn lead btn-black" href="projekt/index.php">
                             Projektanfrage starten                            <span><svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Launch-Version-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Kontakt" transform="translate(-566.000000, -1746.000000)" stroke="#FFFFFF" stroke-width="2">
@@ -210,7 +210,7 @@ CH-8640 Rapperswil SG</p>
                     
                     
                                                                     <div class="media--wrapper   p--lg">
-                            <img data-reveal-direction="left" data-src="https://bereausk.sirv.com/localmedia_website/2020/09/Rapperswil-by-Night-office-webagentur.jpg" class="Sirv image-fill" data-options="fit:crop"/>
+                            <img data-reveal-direction="left" src="https://bereausk.sirv.com/localmedia_website/2020/09/Rapperswil-by-Night-office-webagentur.jpg" class="Sirv image-fill" data-options="fit:crop"/>
                         </div>
                     
                     
@@ -222,7 +222,7 @@ CH-8640 Rapperswil SG</p>
                     
                                                                     <div class="media--wrapper p--sm">
                             <a href="https://www.google.com/maps/place/Localmedia+GmbH/@47.225971,8.8134377,17z/data=!3m1!4b1!4m5!3m4!1s0x479ab702acdaa2a7:0x5a33dc7ce98707ac!8m2!3d47.2259674!4d8.815626" target="_blank" class="map--wrapper no-underline">
-                                <img data-reveal-direction="left" data-src="https://bereausk.sirv.com/localmedia_website/2020/10/map_rapperswil.jpg" class="Sirv image-fill" />
+                                <img data-reveal-direction="left" src="https://bereausk.sirv.com/localmedia_website/2020/10/map_rapperswil.jpg" class="Sirv image-fill" />
                             </a>
                         </div>
                     
@@ -247,11 +247,11 @@ CH-8640 Rapperswil SG</p>
 	</main>
 	<!-- /main-->
 
-<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+<!-- <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
 			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src=''+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
-</script><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
+</script> --><script type='text/javascript' src='../wp-content/themes/localmedia-wp-theme/bedrock/app/assets/js/app-97e207afbb.js' id='lmScripts-js'></script>
 
-<script src="../scripts.sirv.com/sirv.nospin.js"></script>
+<!-- <script src="../scripts.sirv.com/sirv.nospin.js"></script> -->
 
 <script type="text/javascript">
 	window.onscroll = function() {myFunction()};
